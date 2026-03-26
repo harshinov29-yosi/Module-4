@@ -27,5 +27,3 @@ obj.mech(r)
 
 ## Result
 Thus,the program was implemented and executed successfully,and the required output was obtained.
-
-## Result
